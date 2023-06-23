@@ -17,4 +17,4 @@ Test the form for appropriate results
 
 Subsribe to the youtube Channel to create more project just like this one.
 
-[Download C# Fan and Windmill animation tutorial images here](https://www.mooict.com/c-tutorial-create-a-football-penalty-kick-game-in-visual-studio-with-win-forms/)
+[Download C# Fan and Windmill animation tutorial images here](https://www.mooict.com/c-tutorial-transparent-image-animation-using-paint-and-animator-in-windows-form-and-visual-studio/)
